@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"name": "Algoritmo 2 2021",
+			"path": "../../FAMAF/Algoritmo 2 2021"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"workbench.quickOpen.closeOnFocusLost": false,
+		"zenMode.hideLineNumbers": false,
+		"files.associations": {
+			"vector": "cpp",
+			"iostream": "cpp",
+			"array": "cpp",
+			"*.tcc": "cpp",
+			"functional": "cpp",
+			"random": "cpp",
+			"istream": "cpp",
+			"new": "cpp",
+			"ostream": "cpp",
+			"sstream": "cpp",
+			"streambuf": "cpp",
+			"type_traits": "cpp",
+			"utility": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "Platzi"
+	}
+}
